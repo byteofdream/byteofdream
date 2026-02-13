@@ -24,12 +24,6 @@ From cloud-based SaaS applications to small utilities and experimental projects,
 
 ---
 
-## 📈 GitHub Stats
-![DreamyByte GitHub stats](https://github-readme-stats.vercel.app/api?username=dreamybyte&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dreamybyte&layout=compact&theme=radical)
-
----
-
 ## 🌐 Connect with me
 [Website](https://dreamybyte.com) • [Twitter](https://twitter.com/dreamybyte) • [LinkedIn](https://linkedin.com/in/dreamybyte)  
 
