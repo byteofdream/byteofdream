@@ -20,10 +20,7 @@ From cloud-based SaaS applications to small utilities and experimental projects,
 ## 🚀 Featured Projects
 | Project | Description | Demo |
 |---------|-------------|------|
-| [DreamyNotes](https://github.com/dreamybyte/dreamynotes) | Cloud-based note-taking app with tagging & search | ![GIF](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif) |
-| [ByteShort](https://github.com/dreamybyte/byteshort) | URL shortener with analytics dashboard | ![GIF](https://media.giphy.com/media/xT0GqFJqX0rPeTSiUg/giphy.gif) |
-| [PixelPlanner](https://github.com/dreamybyte/pixelplanner) | Minimalist productivity & task planner | ![GIF](https://media.giphy.com/media/3o7aD4C6d9Dd7qowPu/giphy.gif) |
-| [DreamyBot](https://github.com/dreamybyte/dreamybot) | Telegram bot for reminders and utilities | ![GIF](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif) |
+| [Nebula Text](https://github.com/dreamybyte/dreamynotes) | Note-taking app with tagging & search | ![GIF](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif) |
 
 ---
 
