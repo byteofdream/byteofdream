@@ -25,7 +25,7 @@ From cloud-based SaaS applications to small utilities and experimental projects,
 ---
 
 ## 🌐 Connect with me
-[Website](https://dreamybyte.com) • [Twitter](https://twitter.com/dreamybyte) • [LinkedIn](https://linkedin.com/in/dreamybyte)  
+[Website](https://byteofdream.github.io) • [Twitter](https://twitter.com/byteofdream) • [LinkedIn](https://linkedin.com/in/dreamybyte)  
 
 ---
 
