@@ -22,7 +22,7 @@ From cloud-based SaaS applications to small utilities and experimental projects,
 | Project | Description | Demo |
 |---------|-------------|------|
 | [Nebula Text](https://github.com/byteofdream/nebulatext) | Note-taking app with tagging & search | ![GIF](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif) |
-| [Terraria Reborn](https://github.com/byteofdream/terrariareborn) | A copy of Terraria | ![GIF](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif) |
+| [Terraria Reborn](https://github.com/byteofdream/terraria-reborn) | A copy of Terraria | ![GIF](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif) |
 ---
 
 ## 🌐 Connect with me
